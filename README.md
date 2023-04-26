@@ -21,5 +21,6 @@ pandas-challenge/PyCitySchools.  This program was based on the PyCitySchools_sta
 
 
 
-The following website was used to obtain syntax for sorting a list and creating a new line when printing.  In additon, just making sure I had the syntax correct for all commands:
-- [Python Basics - Python Cheatsheet] (https://www.pythoncheatsheet.org/cheatsheet/basics)
+The following website was used to obtain syntax for calling pandas.  In additon, just making sure I had the syntax correct for all commands:
+  (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html)
+  (https://www.geeksforgeeks.org/python-pandas-dataframe/)
