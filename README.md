@@ -4,7 +4,8 @@
 
 ### **Author:  Kevin Krause**
 
-### Comments: 
+### Comments:   CORRECTION MADE.  The average used for passing math and reading was inadvertantly calculated as > 70.  I changed it to >= 70 instead.
+##              The value then was used thru out the code correctly.
 
 ### Comments: 
 The  ipynb notebook program written is named PyCitySchools_Analysis.ipynb and resides under
