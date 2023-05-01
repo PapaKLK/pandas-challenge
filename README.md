@@ -17,8 +17,8 @@ pandas-challenge/PyCitySchools.  This program was based on the PyCitySchools_sta
     schools_complete.csv
     students_complete.csv
  -  Output is generated to the Jupyter Notebook screen interactively
- -  The summary of my analysis is stored in a PDF Document named "Summary of District Student Test Data Analysis.pdf"
-    under pandas-challenge/PyCitySchools
+ -  The summary of my analysis is listed below in this README.md
+
   - README.md
 
 
